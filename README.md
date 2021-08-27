@@ -5,3 +5,6 @@ https://kpopcord.github.io/broadcast/mcountdown.xml
 https://kpopcord.github.io/broadcast/theshow.xml  
 https://kpopcord.github.io/broadcast/showchampion.xml  
 https://kpopcord.github.io/broadcast/sketchbook.xml  
+https://kpopcord.github.io/broadcast/satfreedom.xml  
+https://kpopcord.github.io/broadcast/amazingsaturday.xml  
+https://kpopcord.github.io/broadcast/mask.xml  
