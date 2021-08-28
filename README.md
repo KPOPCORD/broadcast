@@ -10,6 +10,9 @@ https://kpopcord.github.io/broadcast/sketchbook.xml
 https://kpopcord.github.io/broadcast/satfreedom.xml  
 https://kpopcord.github.io/broadcast/mask.xml  
 
-### 예능
+## 오디션
+https://kpopcord.github.io/broadcast/girlsplanet999.xml
+
+## 예능
 https://kpopcord.github.io/broadcast/amazingsaturday.xml  
 https://kpopcord.github.io/broadcast/barada.xml  
