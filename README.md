@@ -12,3 +12,4 @@ https://kpopcord.github.io/broadcast/mask.xml
 
 ### 예능
 https://kpopcord.github.io/broadcast/amazingsaturday.xml  
+https://kpopcord.github.io/broadcast/barada.xml  
