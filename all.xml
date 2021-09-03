@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Sep 2021 10:18:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Sep 2021 11:15:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Fri, 03 Sep 2021 10:17:06 GMT</pubDate>
             <content:encoded><![CDATA[03:12]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210903_52/pA77e_1630662710920fdRvc_JPEG/6131e906162c6a26701c82a5_upload_1630662189648.jpeg?type=f246_140" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[ONE ROOM - 이기찬 (LEE KI CHAN) | KBS 210903 방송 (뮤직뱅크)]]></title>
+            <link>https://tv.naver.com/v/22245068</link>
+            <guid>https://tv.naver.com/v/22245068</guid>
+            <pubDate>Fri, 03 Sep 2021 10:17:06 GMT</pubDate>
+            <content:encoded><![CDATA[03:15]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210903_234/D9uGL_1630662702655KY26H_JPEG/6131e836162c6a26701c822c_upload_1630662173954.jpeg?type=f246_140" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[MI CASA SU CASA - 허영생 (HEO YOUNG SAENG) | KBS 210903 방송 (뮤직뱅크)]]></title>
@@ -30,14 +38,6 @@
             <pubDate>Fri, 03 Sep 2021 10:17:06 GMT</pubDate>
             <content:encoded><![CDATA[03:51]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210903_10/0oxhF_1630661799035zMx0Y_JPEG/6131e6226b74f42e852b87f6_upload_1630660461318.jpeg?type=f246_140" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[ONE ROOM - 이기찬 (LEE KI CHAN) | KBS 210903 방송 (뮤직뱅크)]]></title>
-            <link>https://tv.naver.com/v/22245068</link>
-            <guid>https://tv.naver.com/v/22245068</guid>
-            <pubDate>Fri, 03 Sep 2021 10:17:06 GMT</pubDate>
-            <content:encoded><![CDATA[03:15]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210903_234/D9uGL_1630662702655KY26H_JPEG/6131e836162c6a26701c822c_upload_1630662173954.jpeg?type=f246_140" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[여름 쏙 (Popping) - 온앤오프 (ONF) | KBS 210903 방송 (뮤직뱅크)]]></title>
