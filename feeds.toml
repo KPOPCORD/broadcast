@@ -118,6 +118,16 @@ imageSelector = "img.ClipCard_img__2XgXF"
 contentSelector = "span.ClipCard_time__128vc"
 waitUntil = "networkidle"
 
+[superband2]
+title = "슈퍼밴드2"
+url = "https://program.naver.com/p/17565456/clip"
+entrySelector = "li.ClipCard_item__1ly4h"
+titleSelector = "strong.ClipCard_title__2I1pd"
+linkSelector = "a.ClipCard_link__2XpqM"
+imageSelector = "img.ClipCard_img__2XgXF"
+contentSelector = "span.ClipCard_time__128vc"
+waitUntil = "networkidle"
+
 [navertv_theater]
 title = "네이버 TV ─ 네이버 공연"
 url = "https://tv.naver.com/theater/clips"
