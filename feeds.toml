@@ -117,3 +117,13 @@ linkSelector = "a.ClipCard_link__2XpqM"
 imageSelector = "img.ClipCard_img__2XgXF"
 contentSelector = "span.ClipCard_time__128vc"
 waitUntil = "networkidle"
+
+[navertv]
+title = "네이버 TV ─ 네이버 공연"
+url = "https://tv.naver.com/theater/clips"
+entrySelector = "div[class^='cds _MM_CARD']"
+titleSelector = "dt.title"
+linkSelector = "dt.title a"
+imageSelector = "div.cds_type a img"
+contentSelector = "span.tm_b"
+waitUntil = "networkidle"
