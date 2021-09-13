@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Sep 2021 02:33:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Sep 2021 03:17:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -3160,14 +3160,6 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20210913_200/3FMxP_1631500006337oCK3J_JPEG/5e95e401-df8c-46e9-9f17-b54b36383cfa_B.jpg?type=f246_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[4회 미리보기] ‘K-POP 4대 천왕 미션’ 연습 영상 | 웨이비(WAYB) (스트릿 우먼 파이터)]]></title>
-            <link>https://tv.naver.com/v/22415876</link>
-            <guid>https://tv.naver.com/v/22415876</guid>
-            <pubDate>Mon, 13 Sep 2021 02:33:25 GMT</pubDate>
-            <content:encoded><![CDATA[01:38]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210913_164/u9Jqj_163149970464156mOE_JPEG/fb7a42c3-ba35-448f-bca4-bcd98e269492_B.jpg?type=f246_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[4회 미리보기] ‘K-POP 4대 천왕 미션’ 연습 영상 | 프라우드먼(PROWDMON) (스트릿 우먼 파이터)]]></title>
             <link>https://tv.naver.com/v/22415875</link>
             <guid>https://tv.naver.com/v/22415875</guid>
@@ -3190,6 +3182,14 @@
             <pubDate>Mon, 13 Sep 2021 02:33:25 GMT</pubDate>
             <content:encoded><![CDATA[01:27]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210913_65/1Y4WZ_1631499698899DylsN_JPEG/d03e1b62-a270-4b2d-97f4-a413a693bf25_B.jpg?type=f246_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[4회 미리보기] ‘K-POP 4대 천왕 미션’ 연습 영상 | 웨이비(WAYB) (스트릿 우먼 파이터)]]></title>
+            <link>https://tv.naver.com/v/22415876</link>
+            <guid>https://tv.naver.com/v/22415876</guid>
+            <pubDate>Mon, 13 Sep 2021 02:33:25 GMT</pubDate>
+            <content:encoded><![CDATA[01:38]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210913_164/u9Jqj_163149970464156mOE_JPEG/fb7a42c3-ba35-448f-bca4-bcd98e269492_B.jpg?type=f246_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[4회 예고] '질 것 같으니까 저러는 거 같아' 홀리뱅VS라치카의 양보없는 팽팽한 대립! (스트릿 우먼 파이터)]]></title>
