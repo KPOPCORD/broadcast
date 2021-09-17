@@ -4,9 +4,89 @@
         <title>네이버TV ─ 열린예술무대 뒤란</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Sep 2021 10:18:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Sep 2021 11:15:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[솔루션스_Stage]]></title>
+            <link>https://tv.naver.com/v/22497510</link>
+            <guid>https://tv.naver.com/v/22497510</guid>
+            <pubDate>Fri, 17 Sep 2021 11:15:28 GMT</pubDate>
+            <content:encoded><![CDATA[4:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210916_299/LyPkl_1631801802134L9vyM_JPEG/a1e82a22-16f8-11ec-a613-505dac8c38f5_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[솔루션스_Night swim]]></title>
+            <link>https://tv.naver.com/v/22497503</link>
+            <guid>https://tv.naver.com/v/22497503</guid>
+            <pubDate>Fri, 17 Sep 2021 11:15:28 GMT</pubDate>
+            <content:encoded><![CDATA[3:51]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210916_288/iaVq1_1631801762363er7Yw_JPEG/6f7f3203-16f8-11ec-9b63-505dacfba98a_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[솔루션스_까만 밤]]></title>
+            <link>https://tv.naver.com/v/22497498</link>
+            <guid>https://tv.naver.com/v/22497498</guid>
+            <pubDate>Fri, 17 Sep 2021 11:15:28 GMT</pubDate>
+            <content:encoded><![CDATA[3:43]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210916_41/B9QXp_1631801677871RBeSk_JPEG/48c1bec2-16f8-11ec-9b63-505dacfba98a_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[솔루션스_인터뷰]]></title>
+            <link>https://tv.naver.com/v/22497490</link>
+            <guid>https://tv.naver.com/v/22497490</guid>
+            <pubDate>Fri, 17 Sep 2021 11:15:28 GMT</pubDate>
+            <content:encoded><![CDATA[4:31]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210916_158/M6kTn_1631801611486pzj0U_JPEG/1d732aec-16f8-11ec-a72a-246e963a464c_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[솔루션스_Dance with me]]></title>
+            <link>https://tv.naver.com/v/22497476</link>
+            <guid>https://tv.naver.com/v/22497476</guid>
+            <pubDate>Fri, 17 Sep 2021 11:15:28 GMT</pubDate>
+            <content:encoded><![CDATA[2:57]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210916_205/1eBFZ_1631801540574NmRAa_JPEG/f9e68566-16f7-11ec-a509-a0369ff968b0_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[설_열기구]]></title>
+            <link>https://tv.naver.com/v/22497458</link>
+            <guid>https://tv.naver.com/v/22497458</guid>
+            <pubDate>Fri, 17 Sep 2021 11:15:28 GMT</pubDate>
+            <content:encoded><![CDATA[4:16]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210916_50/7ebrd_1631801480559tKqXx_JPEG/dbd81fb3-16f7-11ec-9d7e-a0369ff952f4_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[설_눈]]></title>
+            <link>https://tv.naver.com/v/22497449</link>
+            <guid>https://tv.naver.com/v/22497449</guid>
+            <pubDate>Fri, 17 Sep 2021 11:15:28 GMT</pubDate>
+            <content:encoded><![CDATA[4:45]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210916_64/chjcZ_1631801430828p3OO1_JPEG/c64ef8df-16f7-11ec-b778-a0369ff963bc_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[설_여기에 있자]]></title>
+            <link>https://tv.naver.com/v/22497444</link>
+            <guid>https://tv.naver.com/v/22497444</guid>
+            <pubDate>Fri, 17 Sep 2021 11:15:28 GMT</pubDate>
+            <content:encoded><![CDATA[3:54]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210916_70/3BS5p_1631801394016UI4Vi_JPEG/b037e8e3-16f7-11ec-a77c-a0369ff94ec8_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[설_인터뷰]]></title>
+            <link>https://tv.naver.com/v/22497434</link>
+            <guid>https://tv.naver.com/v/22497434</guid>
+            <pubDate>Fri, 17 Sep 2021 11:15:28 GMT</pubDate>
+            <content:encoded><![CDATA[5:42]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210916_75/fupBg_16318013557266PqX9_JPEG/9386c95e-16f7-11ec-809b-a0369ff94ed0_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[설_Dry flower]]></title>
+            <link>https://tv.naver.com/v/22497423</link>
+            <guid>https://tv.naver.com/v/22497423</guid>
+            <pubDate>Fri, 17 Sep 2021 11:15:28 GMT</pubDate>
+            <content:encoded><![CDATA[3:11]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210916_139/JhtTA_1631801308198jrGTG_JPEG/796fb5e8-16f7-11ec-a509-a0369ff968b0_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김경호밴드_Ment]]></title>
             <link>https://tv.naver.com/v/22497419</link>
@@ -166,86 +246,6 @@
             <pubDate>Mon, 13 Sep 2021 18:30:30 GMT</pubDate>
             <content:encoded><![CDATA[6:07]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210907_195/wnHMq_16309949939767xIMg_JPEG/199cae86-0fa2-11ec-a77c-a0369ff94ec8_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아이반_Another day (원곡_ Justin Bieber)]]></title>
-            <link>https://tv.naver.com/v/22311935</link>
-            <guid>https://tv.naver.com/v/22311935</guid>
-            <pubDate>Mon, 13 Sep 2021 18:30:30 GMT</pubDate>
-            <content:encoded><![CDATA[3:31]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210907_82/4OBp9_1630994939604BqEa2_JPEG/f200e993-0fa1-11ec-bf57-246e963a4708_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아이반_인공지능]]></title>
-            <link>https://tv.naver.com/v/22311907</link>
-            <guid>https://tv.naver.com/v/22311907</guid>
-            <pubDate>Mon, 13 Sep 2021 18:30:30 GMT</pubDate>
-            <content:encoded><![CDATA[3:33]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210907_219/jphBL_16309948705623iAb8_JPEG/ddb83160-0fa1-11ec-a72a-246e963a464c_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아이반_인터뷰]]></title>
-            <link>https://tv.naver.com/v/22311896</link>
-            <guid>https://tv.naver.com/v/22311896</guid>
-            <pubDate>Mon, 13 Sep 2021 18:30:30 GMT</pubDate>
-            <content:encoded><![CDATA[4:11]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210907_126/yUa3W_1630994837288k4Y1h_JPEG/ab784582-0fa1-11ec-809b-a0369ff94ed0_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아이반_Curious]]></title>
-            <link>https://tv.naver.com/v/22311854</link>
-            <guid>https://tv.naver.com/v/22311854</guid>
-            <pubDate>Mon, 13 Sep 2021 18:30:30 GMT</pubDate>
-            <content:encoded><![CDATA[3:59]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210907_263/AEsWQ_1630994754694ml0kx_JPEG/84e0a9b8-0fa1-11ec-8e61-a0369ff94f34_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[소란_우리,여행]]></title>
-            <link>https://tv.naver.com/v/22149770</link>
-            <guid>https://tv.naver.com/v/22149770</guid>
-            <pubDate>Mon, 13 Sep 2021 18:30:30 GMT</pubDate>
-            <content:encoded><![CDATA[5:23]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210830_88/m7aUh_1630319690462Lgj1r_JPEG/a3b85031-097d-11ec-b6bf-48df379cc9e4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[소란_있어주면]]></title>
-            <link>https://tv.naver.com/v/22149711</link>
-            <guid>https://tv.naver.com/v/22149711</guid>
-            <pubDate>Mon, 13 Sep 2021 18:30:30 GMT</pubDate>
-            <content:encoded><![CDATA[4:34]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210830_27/ITVwl_1630319563838Tap0y_JPEG/76058d61-097d-11ec-8678-48df379cca40_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[소란_ment]]></title>
-            <link>https://tv.naver.com/v/22149673</link>
-            <guid>https://tv.naver.com/v/22149673</guid>
-            <pubDate>Mon, 13 Sep 2021 18:30:30 GMT</pubDate>
-            <content:encoded><![CDATA[5:26]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210830_224/TNosW_163031948874744Slo_JPEG/4598b398-097d-11ec-8678-48df379cca40_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[소란_이제 나와라 고백]]></title>
-            <link>https://tv.naver.com/v/22149645</link>
-            <guid>https://tv.naver.com/v/22149645</guid>
-            <pubDate>Mon, 13 Sep 2021 18:30:30 GMT</pubDate>
-            <content:encoded><![CDATA[4:14]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210830_109/FiG1f_1630319415628UMKBL_JPEG/2255735f-097d-11ec-882d-48df37ae3dc4_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이민혁_우리 오늘 만날까]]></title>
-            <link>https://tv.naver.com/v/22149619</link>
-            <guid>https://tv.naver.com/v/22149619</guid>
-            <pubDate>Mon, 13 Sep 2021 18:30:30 GMT</pubDate>
-            <content:encoded><![CDATA[4:33]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210830_185/PTDpe_1630319354003tDjoi_JPEG/f9f06a9e-097c-11ec-882d-48df37ae3dc4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이민혁_이밤,꿈꾸는듯한]]></title>
-            <link>https://tv.naver.com/v/22149586</link>
-            <guid>https://tv.naver.com/v/22149586</guid>
-            <pubDate>Mon, 13 Sep 2021 18:30:30 GMT</pubDate>
-            <content:encoded><![CDATA[5:19]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210830_125/Ns8i7_1630319288522LjKjr_JPEG/afd291d4-097c-11ec-882d-48df37ae3dc4_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
