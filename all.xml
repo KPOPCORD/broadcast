@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Sep 2021 04:21:14 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Sep 2021 05:15:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -3960,6 +3960,78 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20200521_273/uobDx_1590051066619jSccF_JPEG/65aa5cc3-9b3f-11ea-b0c3-505dac8c38f5_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[데이브레이크_꽃길만 걷게 해줄께 (네이버TV ─ 열린예술무대 뒤란)]]></title>
+            <link>https://tv.naver.com/v/22613334</link>
+            <guid>https://tv.naver.com/v/22613334</guid>
+            <pubDate>Sat, 25 Sep 2021 05:15:36 GMT</pubDate>
+            <content:encoded><![CDATA[3:50]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210925_17/x1E3s_1632545415696ybhtx_JPEG/379193e7-1dbb-11ec-a613-505dac8c38f5_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[데이브레이크_Turnaround (네이버TV ─ 열린예술무대 뒤란)]]></title>
+            <link>https://tv.naver.com/v/22613282</link>
+            <guid>https://tv.naver.com/v/22613282</guid>
+            <pubDate>Sat, 25 Sep 2021 05:15:36 GMT</pubDate>
+            <content:encoded><![CDATA[3:38]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210925_120/TnSpd_1632545039771PXOIO_JPEG/b7df73dc-1dba-11ec-8111-505dac8c381b_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[데이브레이크_말 되지 않을 건 없잖아 (네이버TV ─ 열린예술무대 뒤란)]]></title>
+            <link>https://tv.naver.com/v/22613250</link>
+            <guid>https://tv.naver.com/v/22613250</guid>
+            <pubDate>Sat, 25 Sep 2021 05:15:36 GMT</pubDate>
+            <content:encoded><![CDATA[4:03]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210925_227/dl6MK_1632544829688p62j7_JPEG/91ed1941-1dba-11ec-8c9c-505dac8c37f3_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[데이브레이크_Ment (네이버TV ─ 열린예술무대 뒤란)]]></title>
+            <link>https://tv.naver.com/v/22613228</link>
+            <guid>https://tv.naver.com/v/22613228</guid>
+            <pubDate>Sat, 25 Sep 2021 05:15:36 GMT</pubDate>
+            <content:encoded><![CDATA[6:38]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210925_119/psKCw_1632544761611P1G8M_JPEG/7f44c015-1db9-11ec-89ce-48df379ccacc_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[데이브레이크_들었다 놨다 (네이버TV ─ 열린예술무대 뒤란)]]></title>
+            <link>https://tv.naver.com/v/22613138</link>
+            <guid>https://tv.naver.com/v/22613138</guid>
+            <pubDate>Sat, 25 Sep 2021 05:15:36 GMT</pubDate>
+            <content:encoded><![CDATA[4:02]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210925_93/xhD6z_1632544305352oYjKz_JPEG/57b04db1-1db9-11ec-b6bf-48df379cc9e4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[쏜애플_은하 (네이버TV ─ 열린예술무대 뒤란)]]></title>
+            <link>https://tv.naver.com/v/22613131</link>
+            <guid>https://tv.naver.com/v/22613131</guid>
+            <pubDate>Sat, 25 Sep 2021 05:15:36 GMT</pubDate>
+            <content:encoded><![CDATA[6:24]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210925_133/J89sZ_1632544236299ga3Xf_JPEG/eb756515-1db8-11ec-86ec-48df37ae3fca_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[쏜애플_기린 (네이버TV ─ 열린예술무대 뒤란)]]></title>
+            <link>https://tv.naver.com/v/22613107</link>
+            <guid>https://tv.naver.com/v/22613107</guid>
+            <pubDate>Sat, 25 Sep 2021 05:15:36 GMT</pubDate>
+            <content:encoded><![CDATA[4:16]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210925_117/xGvTZ_1632544056625PgIks_JPEG/a94f5862-1db8-11ec-8678-48df379cca40_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[쏜애플_인터뷰 (네이버TV ─ 열린예술무대 뒤란)]]></title>
+            <link>https://tv.naver.com/v/22613094</link>
+            <guid>https://tv.naver.com/v/22613094</guid>
+            <pubDate>Sat, 25 Sep 2021 05:15:36 GMT</pubDate>
+            <content:encoded><![CDATA[4:25]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210925_133/sHJst_1632543942886H4c7Q_JPEG/840375ea-1db8-11ec-b6bf-48df379cc9e4_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[쏜애플_수성의 하루 (네이버TV ─ 열린예술무대 뒤란)]]></title>
+            <link>https://tv.naver.com/v/22613088</link>
+            <guid>https://tv.naver.com/v/22613088</guid>
+            <pubDate>Sat, 25 Sep 2021 05:15:36 GMT</pubDate>
+            <content:encoded><![CDATA[5:47]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210925_60/7fdkY_1632543883071Ov8pr_JPEG/5dcb8716-1db8-11ec-9d7e-a0369ff952f4_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[솔루션스_Stage (네이버TV ─ 열린예술무대 뒤란)]]></title>
             <link>https://tv.naver.com/v/22497510</link>
             <guid>https://tv.naver.com/v/22497510</guid>
@@ -4126,78 +4198,6 @@
             <pubDate>Mon, 13 Sep 2021 18:30:30 GMT</pubDate>
             <content:encoded><![CDATA[5:02]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210913_230/cvC0d_1631527738023D2XEu_JPEG/6836a5c9-147a-11ec-9d74-a0369ff9545c_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[피싱걸스_일초도 없단다 (네이버TV ─ 열린예술무대 뒤란)]]></title>
-            <link>https://tv.naver.com/v/22425384</link>
-            <guid>https://tv.naver.com/v/22425384</guid>
-            <pubDate>Mon, 13 Sep 2021 18:30:30 GMT</pubDate>
-            <content:encoded><![CDATA[3:19]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210913_61/mgx1E_16315276475784JxrB_JPEG/3379f93a-147a-11ec-93f2-a0369ff95ec0_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오무라이스_뒤란에게 (네이버TV ─ 열린예술무대 뒤란)]]></title>
-            <link>https://tv.naver.com/v/22312137</link>
-            <guid>https://tv.naver.com/v/22312137</guid>
-            <pubDate>Mon, 13 Sep 2021 18:30:30 GMT</pubDate>
-            <content:encoded><![CDATA[3:34]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210907_175/zaVmy_1630995431709UgoqC_JPEG/274a4fc1-0fa3-11ec-a72a-246e963a464c_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[오무라이스]뚝딱송 프로젝트_4탄 (네이버TV ─ 열린예술무대 뒤란)]]></title>
-            <link>https://tv.naver.com/v/22312119</link>
-            <guid>https://tv.naver.com/v/22312119</guid>
-            <pubDate>Mon, 13 Sep 2021 18:30:30 GMT</pubDate>
-            <content:encoded><![CDATA[3:21]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210907_92/Hh8Cm_1630995392020AydkO_JPEG/12441404-0fa3-11ec-a77c-a0369ff94ec8_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[오무라이스]뚝딱송 프로젝트_3탄 (네이버TV ─ 열린예술무대 뒤란)]]></title>
-            <link>https://tv.naver.com/v/22312109</link>
-            <guid>https://tv.naver.com/v/22312109</guid>
-            <pubDate>Mon, 13 Sep 2021 18:30:30 GMT</pubDate>
-            <content:encoded><![CDATA[3:13]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210907_147/ww9e4_1630995356789Y0Rk7_JPEG/0087d3ae-0fa3-11ec-809b-a0369ff94ed0_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이혁_이 노래가 들리나요 (네이버TV ─ 열린예술무대 뒤란)]]></title>
-            <link>https://tv.naver.com/v/22312077</link>
-            <guid>https://tv.naver.com/v/22312077</guid>
-            <pubDate>Mon, 13 Sep 2021 18:30:30 GMT</pubDate>
-            <content:encoded><![CDATA[4:32]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210907_300/dR0kT_1630995267826S0Lyj_JPEG/cb379a1f-0fa2-11ec-80a9-a0369ff95678_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이혁_Alone (원곡_Heart) (네이버TV ─ 열린예술무대 뒤란)]]></title>
-            <link>https://tv.naver.com/v/22312058</link>
-            <guid>https://tv.naver.com/v/22312058</guid>
-            <pubDate>Mon, 13 Sep 2021 18:30:30 GMT</pubDate>
-            <content:encoded><![CDATA[3:37]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210907_81/Qayyz_16309952314648pXJ5_JPEG/98380789-0fa2-11ec-80a9-a0369ff95678_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이혁_인터뷰 (네이버TV ─ 열린예술무대 뒤란)]]></title>
-            <link>https://tv.naver.com/v/22312021</link>
-            <guid>https://tv.naver.com/v/22312021</guid>
-            <pubDate>Mon, 13 Sep 2021 18:30:30 GMT</pubDate>
-            <content:encoded><![CDATA[4:45]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210907_121/xMHFa_1630995141627H79Sl_JPEG/61478bb3-0fa2-11ec-80a9-a0369ff95678_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이혁_아우 (네이버TV ─ 열린예술무대 뒤란)]]></title>
-            <link>https://tv.naver.com/v/22311981</link>
-            <guid>https://tv.naver.com/v/22311981</guid>
-            <pubDate>Mon, 13 Sep 2021 18:30:30 GMT</pubDate>
-            <content:encoded><![CDATA[4:11]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210907_142/c3A8w_1630995053332ngXRt_JPEG/3a7ecdc0-0fa2-11ec-a72a-246e963a464c_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아이반_Dance monkey (원곡_Tones And I) (네이버TV ─ 열린예술무대 뒤란)]]></title>
-            <link>https://tv.naver.com/v/22311952</link>
-            <guid>https://tv.naver.com/v/22311952</guid>
-            <pubDate>Mon, 13 Sep 2021 18:30:30 GMT</pubDate>
-            <content:encoded><![CDATA[6:07]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210907_195/wnHMq_16309949939767xIMg_JPEG/199cae86-0fa2-11ec-a77c-a0369ff94ec8_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
