@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Sep 2021 21:15:01 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Sep 2021 22:16:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -3480,6 +3480,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20210712_155/XLq8z_1626069103384sL4GE_JPEG/85b475ba-1028-43b0-9e6e-8aa4b824fccb_B.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[제 7회 동편제 국악축제 생중계 예고 (네이버 TV ─ 네이버 공연)]]></title>
+            <link>https://tv.naver.com/v/22632355</link>
+            <guid>https://tv.naver.com/v/22632355</guid>
+            <pubDate>Sun, 26 Sep 2021 22:16:45 GMT</pubDate>
+            <content:encoded><![CDATA[1:25]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210927_300/7G6bR_1632692827774osgIE_JPEG/398d1e2a-1ec6-11ec-b778-a0369ff963bc_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[자전거 탄 풍경 at home 콘서트 온라인 생중계 예고 (네이버 TV ─ 네이버 공연)]]></title>
             <link>https://tv.naver.com/v/22430399</link>
             <guid>https://tv.naver.com/v/22430399</guid>
@@ -3710,14 +3718,6 @@
             <pubDate>Fri, 10 Sep 2021 13:18:36 GMT</pubDate>
             <content:encoded><![CDATA[1:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210503_136/mHeBF_1620040528483xaxhT_JPEG/431e6e2f-abff-11eb-90a6-246e963a49a8_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <베르나르다 알바> 이소정 ver. 5월 17일 생중계 안내 (네이버 TV ─ 네이버 공연)]]></title>
-            <link>https://tv.naver.com/v/19928576</link>
-            <guid>https://tv.naver.com/v/19928576</guid>
-            <pubDate>Fri, 10 Sep 2021 13:18:36 GMT</pubDate>
-            <content:encoded><![CDATA[0:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210430_43/uoY6w_1619751975083wGoeH_JPEG/e306d3bc-a95d-11eb-9014-505dacfbaa5c_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[LISA OUTNOW Unlimited TEASER | 9/14 8PM (네이버TV ─ 네이버 나우)]]></title>
