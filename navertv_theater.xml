@@ -4,9 +4,17 @@
         <title>네이버 TV ─ 네이버 공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Oct 2021 04:21:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Oct 2021 05:16:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[제 7회 동편제 국악축제 생중계 예고]]></title>
+            <link>https://tv.naver.com/v/22727551</link>
+            <guid>https://tv.naver.com/v/22727551</guid>
+            <pubDate>Fri, 01 Oct 2021 05:15:52 GMT</pubDate>
+            <content:encoded><![CDATA[1:25]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211001_41/eBdfe_16330635744626Y6Bf_JPEG/89ad08fd-2271-11ec-809b-a0369ff94ed0_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[제6회 마포 M클래식축제 <당인리 패션 클래식> 생중계 예고]]></title>
             <link>https://tv.naver.com/v/22722789</link>
@@ -22,14 +30,6 @@
             <pubDate>Sun, 26 Sep 2021 23:17:12 GMT</pubDate>
             <content:encoded><![CDATA[0:29]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210927_43/6CXeo_16326969470243Xj2S_JPEG/dc84047d-1f1b-11ec-a9f1-505dac8c3639_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제 7회 동편제 국악축제 생중계 예고]]></title>
-            <link>https://tv.naver.com/v/22632355</link>
-            <guid>https://tv.naver.com/v/22632355</guid>
-            <pubDate>Sun, 26 Sep 2021 22:16:45 GMT</pubDate>
-            <content:encoded><![CDATA[1:25]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210927_300/7G6bR_1632692827774osgIE_JPEG/398d1e2a-1ec6-11ec-b778-a0369ff963bc_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[자전거 탄 풍경 at home 콘서트 온라인 생중계 예고]]></title>
