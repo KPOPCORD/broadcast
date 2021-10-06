@@ -4,9 +4,81 @@
         <title>네이버TV ─ 열린예술무대 뒤란</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Oct 2021 12:26:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Oct 2021 13:34:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[몽니_오늘밤]]></title>
+            <link>https://tv.naver.com/v/22825315</link>
+            <guid>https://tv.naver.com/v/22825315</guid>
+            <pubDate>Wed, 06 Oct 2021 13:34:05 GMT</pubDate>
+            <content:encoded><![CDATA[3:50]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211006_202/EeLJY_1633527108917nx0VE_JPEG/9dd78b21-26a9-11ec-8111-505dac8c381b_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[몽니_로맨틱한 바람]]></title>
+            <link>https://tv.naver.com/v/22825295</link>
+            <guid>https://tv.naver.com/v/22825295</guid>
+            <pubDate>Wed, 06 Oct 2021 13:34:05 GMT</pubDate>
+            <content:encoded><![CDATA[3:17]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211006_290/G1UnI_1633527042856SwCES_JPEG/83588e70-26a9-11ec-a8ac-505dac8c35ff_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[몽니_그대와 함께]]></title>
+            <link>https://tv.naver.com/v/22825286</link>
+            <guid>https://tv.naver.com/v/22825286</guid>
+            <pubDate>Wed, 06 Oct 2021 13:34:05 GMT</pubDate>
+            <content:encoded><![CDATA[3:38]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211006_222/w65Ms_1633526965560FTYpQ_JPEG/402d1f1f-26a9-11ec-a8ac-505dac8c35ff_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[마리아_운전만해(원곡_브레이브걸스)]]></title>
+            <link>https://tv.naver.com/v/22825249</link>
+            <guid>https://tv.naver.com/v/22825249</guid>
+            <pubDate>Wed, 06 Oct 2021 13:34:05 GMT</pubDate>
+            <content:encoded><![CDATA[3:09]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211006_230/Ln9Yq_1633526851368Td5SI_JPEG/17fce1e7-26a9-11ec-a613-505dac8c38f5_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[마리아_인터뷰]]></title>
+            <link>https://tv.naver.com/v/22825242</link>
+            <guid>https://tv.naver.com/v/22825242</guid>
+            <pubDate>Wed, 06 Oct 2021 13:34:05 GMT</pubDate>
+            <content:encoded><![CDATA[4:13]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211006_268/xwHoe_16335268190244qNJi_JPEG/f1b5b091-26a8-11ec-8111-505dac8c381b_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[마리아_울면서 후회하네]]></title>
+            <link>https://tv.naver.com/v/22825226</link>
+            <guid>https://tv.naver.com/v/22825226</guid>
+            <pubDate>Wed, 06 Oct 2021 13:34:05 GMT</pubDate>
+            <content:encoded><![CDATA[2:31]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211006_1/2RF2p_16335267546857oF6W_JPEG/b6f148eb-26a8-11ec-a613-505dac8c38f5_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[보이후드_레트로러브]]></title>
+            <link>https://tv.naver.com/v/22825210</link>
+            <guid>https://tv.naver.com/v/22825210</guid>
+            <pubDate>Wed, 06 Oct 2021 13:34:05 GMT</pubDate>
+            <content:encoded><![CDATA[3:33]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211006_181/2WpSP_1633526657399kzx1E_JPEG/939ec62e-26a8-11ec-a8ac-505dac8c35ff_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[보이후드_인터뷰]]></title>
+            <link>https://tv.naver.com/v/22825193</link>
+            <guid>https://tv.naver.com/v/22825193</guid>
+            <pubDate>Wed, 06 Oct 2021 13:34:05 GMT</pubDate>
+            <content:encoded><![CDATA[3:33]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211006_84/hsKfu_1633526598710vA8yj_JPEG/77b69bf6-26a8-11ec-9b63-505dacfba98a_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[보이후드_집에없자]]></title>
+            <link>https://tv.naver.com/v/22825183</link>
+            <guid>https://tv.naver.com/v/22825183</guid>
+            <pubDate>Wed, 06 Oct 2021 13:34:05 GMT</pubDate>
+            <content:encoded><![CDATA[4:07]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211006_117/jq2Ib_1633526551827zKxr4_JPEG/579a16c6-26a8-11ec-8c9c-505dac8c37f3_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[데이브레이크_꽃길만 걷게 해줄께]]></title>
             <link>https://tv.naver.com/v/22613334</link>
@@ -174,78 +246,6 @@
             <pubDate>Mon, 13 Sep 2021 18:30:30 GMT</pubDate>
             <content:encoded><![CDATA[3:27]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210913_189/P9x5h_16315286632907YIWb_JPEG/a66f6159-147c-11ec-809b-a0369ff94ed0_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김경호밴드_그대에게(원곡_신해철)]]></title>
-            <link>https://tv.naver.com/v/22425617</link>
-            <guid>https://tv.naver.com/v/22425617</guid>
-            <pubDate>Mon, 13 Sep 2021 18:30:30 GMT</pubDate>
-            <content:encoded><![CDATA[3:53]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210913_262/h6hZN_1631528547743z6J2g_JPEG/47315c78-147c-11ec-b778-a0369ff963bc_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김경호_금지된사랑]]></title>
-            <link>https://tv.naver.com/v/22425590</link>
-            <guid>https://tv.naver.com/v/22425590</guid>
-            <pubDate>Mon, 13 Sep 2021 18:30:30 GMT</pubDate>
-            <content:encoded><![CDATA[5:02]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210913_238/mlS1K_163152844104502wkJ_JPEG/03891bcd-147c-11ec-b6bf-48df379cc9e4_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김경호밴드_Rock&Roll]]></title>
-            <link>https://tv.naver.com/v/22425562</link>
-            <guid>https://tv.naver.com/v/22425562</guid>
-            <pubDate>Mon, 13 Sep 2021 18:30:30 GMT</pubDate>
-            <content:encoded><![CDATA[4:10]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210913_243/B6PZB_1631528337012u9zBG_JPEG/d9ed40cd-147b-11ec-8678-48df379cca40_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김경호밴드_사랑,그 시린 아픔으로]]></title>
-            <link>https://tv.naver.com/v/22425542</link>
-            <guid>https://tv.naver.com/v/22425542</guid>
-            <pubDate>Mon, 13 Sep 2021 18:30:30 GMT</pubDate>
-            <content:encoded><![CDATA[4:31]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210913_90/BWws6_1631528262163qFADR_JPEG/a841f335-147b-11ec-882d-48df37ae3dc4_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김경호밴드_데칼코마니(원곡_마마무)]]></title>
-            <link>https://tv.naver.com/v/22425519</link>
-            <guid>https://tv.naver.com/v/22425519</guid>
-            <pubDate>Mon, 13 Sep 2021 18:30:30 GMT</pubDate>
-            <content:encoded><![CDATA[3:55]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210913_231/7FN62_16315281841127KE45_JPEG/7c0ca8e6-147b-11ec-8678-48df379cca40_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김경호_수호천사]]></title>
-            <link>https://tv.naver.com/v/22425502</link>
-            <guid>https://tv.naver.com/v/22425502</guid>
-            <pubDate>Mon, 13 Sep 2021 18:30:30 GMT</pubDate>
-            <content:encoded><![CDATA[4:07]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210913_103/5tG6j_1631528100656WQAWk_JPEG/3e224935-147b-11ec-a613-505dac8c38f5_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김경호밴드_Everybody]]></title>
-            <link>https://tv.naver.com/v/22425483</link>
-            <guid>https://tv.naver.com/v/22425483</guid>
-            <pubDate>Mon, 13 Sep 2021 18:30:30 GMT</pubDate>
-            <content:encoded><![CDATA[4:12]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210913_225/DIWS8_1631528005116FSvyy_JPEG/1cafd17d-147b-11ec-8111-505dac8c381b_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[피싱걸스_낚시왕]]></title>
-            <link>https://tv.naver.com/v/22425415</link>
-            <guid>https://tv.naver.com/v/22425415</guid>
-            <pubDate>Mon, 13 Sep 2021 18:30:30 GMT</pubDate>
-            <content:encoded><![CDATA[3:43]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210913_212/0oYYv_1631527765708xOKo8_JPEG/9df865a4-147a-11ec-b835-505dac8c3607_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[피싱걸스_인터뷰]]></title>
-            <link>https://tv.naver.com/v/22425409</link>
-            <guid>https://tv.naver.com/v/22425409</guid>
-            <pubDate>Mon, 13 Sep 2021 18:30:30 GMT</pubDate>
-            <content:encoded><![CDATA[5:02]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210913_230/cvC0d_1631527738023D2XEu_JPEG/6836a5c9-147a-11ec-9d74-a0369ff9545c_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
