@@ -7,6 +7,7 @@ linkSelector = "a.ClipCard_link__2XpqM"
 imageSelector = "img.ClipCard_img__2XgXF"
 contentSelector = "span.ClipCard_time__128vc"
 waitUntil = "networkidle"
+onFail = "stale"
 
 [showmusiccore]
 title = "쇼! 음악중심"
@@ -17,6 +18,7 @@ linkSelector = "a.ClipCard_link__2XpqM"
 imageSelector = "img.ClipCard_img__2XgXF"
 contentSelector = "span.ClipCard_time__128vc"
 waitUntil = "networkidle"
+onFail = "stale"
 
 [inkigayo]
 title = "인기가요"
@@ -27,6 +29,7 @@ linkSelector = "a.ClipCard_link__2XpqM"
 imageSelector = "img.ClipCard_img__2XgXF"
 contentSelector = "span.ClipCard_time__128vc"
 waitUntil = "networkidle"
+onFail = "stale"
 
 [mcountdown]
 title = "엠카운트다운"
@@ -47,6 +50,7 @@ linkSelector = "a.ClipCard_link__2XpqM"
 imageSelector = "img.ClipCard_img__2XgXF"
 contentSelector = "span.ClipCard_time__128vc"
 waitUntil = "networkidle"
+onFail = "stale"
 
 [showchampion]
 title = "쇼챔피언"
@@ -57,6 +61,7 @@ linkSelector = "a.ClipCard_link__2XpqM"
 imageSelector = "img.ClipCard_img__2XgXF"
 contentSelector = "span.ClipCard_time__128vc"
 waitUntil = "networkidle"
+onFail = "stale"
 
 [sketchbook]
 title = "유희열의 스케치북"
@@ -67,6 +72,7 @@ linkSelector = "a.ClipCard_link__2XpqM"
 imageSelector = "img.ClipCard_img__2XgXF"
 contentSelector = "span.ClipCard_time__128vc"
 waitUntil = "networkidle"
+onFail = "stale"
 
 [satfreedom]
 title = "불후의 명곡"
@@ -77,6 +83,7 @@ linkSelector = "a.ClipCard_link__2XpqM"
 imageSelector = "img.ClipCard_img__2XgXF"
 contentSelector = "span.ClipCard_time__128vc"
 waitUntil = "networkidle"
+onFail = "stale"
 
 [mask]
 title = "복면가왕"
@@ -97,6 +104,7 @@ linkSelector = "a.ClipCard_link__2XpqM"
 imageSelector = "img.ClipCard_img__2XgXF"
 contentSelector = "span.ClipCard_time__128vc"
 waitUntil = "networkidle"
+onFail = "stale"
 
 [barada]
 title = "바라는 바다"
@@ -107,6 +115,7 @@ linkSelector = "a.ClipCard_link__2XpqM"
 imageSelector = "img.ClipCard_img__2XgXF"
 contentSelector = "span.ClipCard_time__128vc"
 waitUntil = "networkidle"
+onFail = "stale"
 
 [girlsplanet999]
 title = "걸스플래닛999 소녀대전"
@@ -117,6 +126,7 @@ linkSelector = "a.ClipCard_link__2XpqM"
 imageSelector = "img.ClipCard_img__2XgXF"
 contentSelector = "span.ClipCard_time__128vc"
 waitUntil = "networkidle"
+onFail = "stale"
 
 [superband2]
 title = "슈퍼밴드2"
@@ -127,6 +137,7 @@ linkSelector = "a.ClipCard_link__2XpqM"
 imageSelector = "img.ClipCard_img__2XgXF"
 contentSelector = "span.ClipCard_time__128vc"
 waitUntil = "networkidle"
+onFail = "stale"
 
 [streetwomanfighter]
 title = "스트릿 우먼 파이터"
@@ -137,6 +148,7 @@ linkSelector = "a.ClipCard_link__2XpqM"
 imageSelector = "img.ClipCard_img__2XgXF"
 contentSelector = "span.ClipCard_time__128vc"
 waitUntil = "networkidle"
+onFail = "stale"
 
 [navertv_streetwomanfighter]
 title = "네이버 TV ─ 스트릿 우먼 파이터"
@@ -147,6 +159,7 @@ linkSelector = "dt.title a"
 imageSelector = "div.cds_type a img"
 contentSelector = "span.tm_b"
 waitUntil = "networkidle"
+onFail = "stale"
 
 [navertv_theater]
 title = "네이버 TV ─ 네이버 공연"
@@ -157,6 +170,7 @@ linkSelector = "dt.title a"
 imageSelector = "div.cds_type a img"
 contentSelector = "span.tm_b"
 waitUntil = "networkidle"
+onFail = "stale"
 
 [navertv_now]
 title = "네이버TV ─ 네이버 나우"
@@ -167,6 +181,7 @@ linkSelector = "dt.title a"
 imageSelector = "div.cds_type a img"
 contentSelector = "span.tm_b"
 waitUntil = "networkidle"
+onFail = "stale"
 
 [navertv_ubcdran]
 title = "네이버TV ─ 열린예술무대 뒤란"
@@ -177,3 +192,4 @@ linkSelector = "dt.title a"
 imageSelector = "div.cds_type a img"
 contentSelector = "span.tm_b"
 waitUntil = "networkidle"
+onFail = "stale"
