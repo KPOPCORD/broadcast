@@ -4,7 +4,7 @@
         <title>걸스플래닛999 소녀대전</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Oct 2021 11:15:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Oct 2021 12:27:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,14 +14,6 @@
             <pubDate>Thu, 07 Oct 2021 11:14:38 GMT</pubDate>
             <content:encoded><![CDATA[01:23]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211007_202/vCZH0_1633604510776vPLUq_JPEG/b09b5048-4072-439c-87a6-2299be5227b9_B.jpg?type=f246_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Girls Planet 999] 'CREATION MISSION : 뱀(Snake)' 포인트 안무 미리보기]]></title>
-            <link>https://tv.naver.com/v/22844392</link>
-            <guid>https://tv.naver.com/v/22844392</guid>
-            <pubDate>Thu, 07 Oct 2021 11:14:38 GMT</pubDate>
-            <content:encoded><![CDATA[01:06]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211007_63/LuFsN_1633604213872kMvgH_JPEG/b2c30dd8-fe7f-4c50-b928-3fdbdce545bb_B.jpg?type=f246_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[Girls Planet 999] 'CREATION MISSION : Utopia' 포인트 안무 미리보기]]></title>
@@ -38,6 +30,14 @@
             <pubDate>Thu, 07 Oct 2021 11:14:38 GMT</pubDate>
             <content:encoded><![CDATA[01:09]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211007_110/uz2K0_1633604215302mgBwU_JPEG/33b4079b-fc04-4c55-8379-3d74f309420d_B.jpg?type=f246_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Girls Planet 999] 'CREATION MISSION : 뱀(Snake)' 포인트 안무 미리보기]]></title>
+            <link>https://tv.naver.com/v/22844392</link>
+            <guid>https://tv.naver.com/v/22844392</guid>
+            <pubDate>Thu, 07 Oct 2021 11:14:38 GMT</pubDate>
+            <content:encoded><![CDATA[01:06]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211007_63/LuFsN_1633604213872kMvgH_JPEG/b2c30dd8-fe7f-4c50-b928-3fdbdce545bb_B.jpg?type=f246_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[10회/선공개] '점점 떨어지는 자신감' 걱정 가득 〈U+Me=LOVE〉 팀의 무대!?]]></title>
