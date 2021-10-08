@@ -4,9 +4,49 @@
         <title>네이버TV ─ 열린예술무대 뒤란</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Oct 2021 09:17:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Oct 2021 10:19:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[양준일_Fantasy]]></title>
+            <link>https://tv.naver.com/v/22848766</link>
+            <guid>https://tv.naver.com/v/22848766</guid>
+            <pubDate>Fri, 08 Oct 2021 10:19:09 GMT</pubDate>
+            <content:encoded><![CDATA[3:55]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211008_292/UMHsh_1633619983981p7fui_JPEG/c82e6231-2781-11ec-9cd3-505dac8c3721_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[양준일_Rocking roll again]]></title>
+            <link>https://tv.naver.com/v/22848742</link>
+            <guid>https://tv.naver.com/v/22848742</guid>
+            <pubDate>Fri, 08 Oct 2021 10:19:09 GMT</pubDate>
+            <content:encoded><![CDATA[3:52]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211008_136/pkj3S_1633619885891ngkxD_JPEG/b08456cd-2781-11ec-9cd3-505dac8c3721_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[양준일_Shut up, i love you]]></title>
+            <link>https://tv.naver.com/v/22848734</link>
+            <guid>https://tv.naver.com/v/22848734</guid>
+            <pubDate>Fri, 08 Oct 2021 10:19:09 GMT</pubDate>
+            <content:encoded><![CDATA[3:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211008_112/v7iz9_1633619847034xXegM_JPEG/9a1a1e5b-2781-11ec-bd3d-505dac8c3639_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[양준일_인터뷰]]></title>
+            <link>https://tv.naver.com/v/22848731</link>
+            <guid>https://tv.naver.com/v/22848731</guid>
+            <pubDate>Fri, 08 Oct 2021 10:19:09 GMT</pubDate>
+            <content:encoded><![CDATA[9:22]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211008_267/fekt7_1633619830029fODCy_JPEG/876992a0-2781-11ec-92de-505dac8c3607_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[양준일_리베카]]></title>
+            <link>https://tv.naver.com/v/22848719</link>
+            <guid>https://tv.naver.com/v/22848719</guid>
+            <pubDate>Fri, 08 Oct 2021 10:19:09 GMT</pubDate>
+            <content:encoded><![CDATA[3:42]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211008_205/T8y7w_1633619778503YWkcB_JPEG/699cc9e2-2781-11ec-9cd3-505dac8c3721_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[몽니_Black or white(원곡_마이클잭슨)]]></title>
             <link>https://tv.naver.com/v/22825329</link>
@@ -206,46 +246,6 @@
             <pubDate>Thu, 07 Oct 2021 16:22:52 GMT</pubDate>
             <content:encoded><![CDATA[2:57]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210916_205/1eBFZ_1631801540574NmRAa_JPEG/f9e68566-16f7-11ec-a509-a0369ff968b0_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[설_열기구]]></title>
-            <link>https://tv.naver.com/v/22497458</link>
-            <guid>https://tv.naver.com/v/22497458</guid>
-            <pubDate>Thu, 07 Oct 2021 16:22:52 GMT</pubDate>
-            <content:encoded><![CDATA[4:16]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210916_50/7ebrd_1631801480559tKqXx_JPEG/dbd81fb3-16f7-11ec-9d7e-a0369ff952f4_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[설_눈]]></title>
-            <link>https://tv.naver.com/v/22497449</link>
-            <guid>https://tv.naver.com/v/22497449</guid>
-            <pubDate>Thu, 07 Oct 2021 16:22:52 GMT</pubDate>
-            <content:encoded><![CDATA[4:45]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210916_64/chjcZ_1631801430828p3OO1_JPEG/c64ef8df-16f7-11ec-b778-a0369ff963bc_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[설_여기에 있자]]></title>
-            <link>https://tv.naver.com/v/22497444</link>
-            <guid>https://tv.naver.com/v/22497444</guid>
-            <pubDate>Thu, 07 Oct 2021 16:22:52 GMT</pubDate>
-            <content:encoded><![CDATA[3:54]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210916_70/3BS5p_1631801394016UI4Vi_JPEG/b037e8e3-16f7-11ec-a77c-a0369ff94ec8_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[설_인터뷰]]></title>
-            <link>https://tv.naver.com/v/22497434</link>
-            <guid>https://tv.naver.com/v/22497434</guid>
-            <pubDate>Thu, 07 Oct 2021 16:22:52 GMT</pubDate>
-            <content:encoded><![CDATA[5:42]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210916_75/fupBg_16318013557266PqX9_JPEG/9386c95e-16f7-11ec-809b-a0369ff94ed0_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[설_Dry flower]]></title>
-            <link>https://tv.naver.com/v/22497423</link>
-            <guid>https://tv.naver.com/v/22497423</guid>
-            <pubDate>Thu, 07 Oct 2021 16:22:52 GMT</pubDate>
-            <content:encoded><![CDATA[3:11]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210916_139/JhtTA_1631801308198jrGTG_JPEG/796fb5e8-16f7-11ec-a509-a0369ff968b0_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
