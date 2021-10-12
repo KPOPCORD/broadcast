@@ -4,9 +4,41 @@
         <title>네이버TV ─ 열린예술무대 뒤란</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Oct 2021 11:14:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Oct 2021 12:27:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[곽동현_붉은노을(원곡_이문세)]]></title>
+            <link>https://tv.naver.com/v/22921216</link>
+            <guid>https://tv.naver.com/v/22921216</guid>
+            <pubDate>Tue, 12 Oct 2021 12:27:03 GMT</pubDate>
+            <content:encoded><![CDATA[4:06]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211012_212/MMtKU_1634040700776XAOgV_JPEG/60ea1239-2b55-11ec-8612-48df379cc9e4_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[곽동현_거짓말]]></title>
+            <link>https://tv.naver.com/v/22921196</link>
+            <guid>https://tv.naver.com/v/22921196</guid>
+            <pubDate>Tue, 12 Oct 2021 12:27:03 GMT</pubDate>
+            <content:encoded><![CDATA[3:58]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211012_42/7BJMo_1634040619685I8ihk_JPEG/4286aeb4-2b55-11ec-8612-48df379cc9e4_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[곽동현_인터뷰]]></title>
+            <link>https://tv.naver.com/v/22921176</link>
+            <guid>https://tv.naver.com/v/22921176</guid>
+            <pubDate>Tue, 12 Oct 2021 12:27:03 GMT</pubDate>
+            <content:encoded><![CDATA[4:46]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211012_48/hJjiR_1634040569006291xb_JPEG/196f6cba-2b55-11ec-a0d8-48df379ccacc_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[곽동현_빗속에서(원곡_이문세)]]></title>
+            <link>https://tv.naver.com/v/22921155</link>
+            <guid>https://tv.naver.com/v/22921155</guid>
+            <pubDate>Tue, 12 Oct 2021 12:27:03 GMT</pubDate>
+            <content:encoded><![CDATA[5:36]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211012_74/H7Zjw_1634040499826cJmFF_JPEG/f856ad95-2b54-11ec-83d3-48df379cca40_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[양준일_Fantasy]]></title>
             <link>https://tv.naver.com/v/22848766</link>
@@ -214,38 +246,6 @@
             <pubDate>Thu, 07 Oct 2021 16:22:52 GMT</pubDate>
             <content:encoded><![CDATA[4:05]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210916_299/LyPkl_1631801802134L9vyM_JPEG/a1e82a22-16f8-11ec-a613-505dac8c38f5_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[솔루션스_Night swim]]></title>
-            <link>https://tv.naver.com/v/22497503</link>
-            <guid>https://tv.naver.com/v/22497503</guid>
-            <pubDate>Thu, 07 Oct 2021 16:22:52 GMT</pubDate>
-            <content:encoded><![CDATA[3:51]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210916_288/iaVq1_1631801762363er7Yw_JPEG/6f7f3203-16f8-11ec-9b63-505dacfba98a_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[솔루션스_까만 밤]]></title>
-            <link>https://tv.naver.com/v/22497498</link>
-            <guid>https://tv.naver.com/v/22497498</guid>
-            <pubDate>Thu, 07 Oct 2021 16:22:52 GMT</pubDate>
-            <content:encoded><![CDATA[3:43]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210916_41/B9QXp_1631801677871RBeSk_JPEG/48c1bec2-16f8-11ec-9b63-505dacfba98a_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[솔루션스_인터뷰]]></title>
-            <link>https://tv.naver.com/v/22497490</link>
-            <guid>https://tv.naver.com/v/22497490</guid>
-            <pubDate>Thu, 07 Oct 2021 16:22:52 GMT</pubDate>
-            <content:encoded><![CDATA[4:31]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210916_158/M6kTn_1631801611486pzj0U_JPEG/1d732aec-16f8-11ec-a72a-246e963a464c_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[솔루션스_Dance with me]]></title>
-            <link>https://tv.naver.com/v/22497476</link>
-            <guid>https://tv.naver.com/v/22497476</guid>
-            <pubDate>Thu, 07 Oct 2021 16:22:52 GMT</pubDate>
-            <content:encoded><![CDATA[2:57]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210916_205/1eBFZ_1631801540574NmRAa_JPEG/f9e68566-16f7-11ec-a509-a0369ff968b0_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
