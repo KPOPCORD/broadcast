@@ -4,9 +4,73 @@
         <title>네이버TV ─ 열린예술무대 뒤란</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 16 Oct 2021 06:19:58 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Oct 2021 07:17:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[알리_내가 나에게]]></title>
+            <link>https://tv.naver.com/v/22996404</link>
+            <guid>https://tv.naver.com/v/22996404</guid>
+            <pubDate>Sat, 16 Oct 2021 07:17:03 GMT</pubDate>
+            <content:encoded><![CDATA[3:06]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211016_102/0zhmn_1634365621888JNhVH_JPEG/eb4e4bd7-2e49-11ec-b0b6-246e963a4708_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[알리_지우개]]></title>
+            <link>https://tv.naver.com/v/22996396</link>
+            <guid>https://tv.naver.com/v/22996396</guid>
+            <pubDate>Sat, 16 Oct 2021 07:17:03 GMT</pubDate>
+            <content:encoded><![CDATA[4:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211016_211/0NCPH_1634365552234mKY0R_JPEG/c6c3491c-2e49-11ec-9ee0-a0369ff94ed0_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[알리_넋두리(원곡 김현식)]]></title>
+            <link>https://tv.naver.com/v/22996388</link>
+            <guid>https://tv.naver.com/v/22996388</guid>
+            <pubDate>Sat, 16 Oct 2021 07:17:03 GMT</pubDate>
+            <content:encoded><![CDATA[6:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211016_142/5Squn_1634365490955GOu4f_JPEG/5f340e9c-2e49-11ec-9ac7-505dac8c381b_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[알리_what is LUV]]></title>
+            <link>https://tv.naver.com/v/22996360</link>
+            <guid>https://tv.naver.com/v/22996360</guid>
+            <pubDate>Sat, 16 Oct 2021 07:17:03 GMT</pubDate>
+            <content:encoded><![CDATA[3:49]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211016_166/Q59CI_16343653153004PpER_JPEG/35a1a915-2e49-11ec-b2c0-505dac8c38f5_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[알리_인터뷰]]></title>
+            <link>https://tv.naver.com/v/22996344</link>
+            <guid>https://tv.naver.com/v/22996344</guid>
+            <pubDate>Sat, 16 Oct 2021 07:17:03 GMT</pubDate>
+            <content:encoded><![CDATA[6:52]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211016_177/vnI5w_1634365245966ukHis_JPEG/0a2f60c4-2e49-11ec-9ac7-505dac8c381b_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[알리_102가지]]></title>
+            <link>https://tv.naver.com/v/22996329</link>
+            <guid>https://tv.naver.com/v/22996329</guid>
+            <pubDate>Sat, 16 Oct 2021 07:17:03 GMT</pubDate>
+            <content:encoded><![CDATA[3:20]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211016_148/kPFnR_1634365173529PxUXW_JPEG/f02baddd-2e48-11ec-b543-505dacfba98a_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[하이브로_Good morning]]></title>
+            <link>https://tv.naver.com/v/22996319</link>
+            <guid>https://tv.naver.com/v/22996319</guid>
+            <pubDate>Sat, 16 Oct 2021 07:17:03 GMT</pubDate>
+            <content:encoded><![CDATA[3:19]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211016_231/HzU4C_1634365131276pOtgU_JPEG/da092c63-2e48-11ec-8636-505dac8c3639_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[하이브로_인터뷰]]></title>
+            <link>https://tv.naver.com/v/22996311</link>
+            <guid>https://tv.naver.com/v/22996311</guid>
+            <pubDate>Sat, 16 Oct 2021 07:17:03 GMT</pubDate>
+            <content:encoded><![CDATA[5:59]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211016_4/3zLQG_1634365093566kDhm7_JPEG/bcbb310c-2e48-11ec-9ac7-505dac8c381b_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[하이브로_오늘은]]></title>
             <link>https://tv.naver.com/v/22996306</link>
@@ -182,70 +246,6 @@
             <pubDate>Thu, 07 Oct 2021 16:22:52 GMT</pubDate>
             <content:encoded><![CDATA[3:50]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210925_17/x1E3s_1632545415696ybhtx_JPEG/379193e7-1dbb-11ec-a613-505dac8c38f5_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[데이브레이크_Turnaround]]></title>
-            <link>https://tv.naver.com/v/22613282</link>
-            <guid>https://tv.naver.com/v/22613282</guid>
-            <pubDate>Thu, 07 Oct 2021 16:22:52 GMT</pubDate>
-            <content:encoded><![CDATA[3:38]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210925_120/TnSpd_1632545039771PXOIO_JPEG/b7df73dc-1dba-11ec-8111-505dac8c381b_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[데이브레이크_말 되지 않을 건 없잖아]]></title>
-            <link>https://tv.naver.com/v/22613250</link>
-            <guid>https://tv.naver.com/v/22613250</guid>
-            <pubDate>Thu, 07 Oct 2021 16:22:52 GMT</pubDate>
-            <content:encoded><![CDATA[4:03]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210925_227/dl6MK_1632544829688p62j7_JPEG/91ed1941-1dba-11ec-8c9c-505dac8c37f3_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[데이브레이크_Ment]]></title>
-            <link>https://tv.naver.com/v/22613228</link>
-            <guid>https://tv.naver.com/v/22613228</guid>
-            <pubDate>Thu, 07 Oct 2021 16:22:52 GMT</pubDate>
-            <content:encoded><![CDATA[6:38]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210925_119/psKCw_1632544761611P1G8M_JPEG/7f44c015-1db9-11ec-89ce-48df379ccacc_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[데이브레이크_들었다 놨다]]></title>
-            <link>https://tv.naver.com/v/22613138</link>
-            <guid>https://tv.naver.com/v/22613138</guid>
-            <pubDate>Thu, 07 Oct 2021 16:22:52 GMT</pubDate>
-            <content:encoded><![CDATA[4:02]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210925_93/xhD6z_1632544305352oYjKz_JPEG/57b04db1-1db9-11ec-b6bf-48df379cc9e4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[쏜애플_은하]]></title>
-            <link>https://tv.naver.com/v/22613131</link>
-            <guid>https://tv.naver.com/v/22613131</guid>
-            <pubDate>Thu, 07 Oct 2021 16:22:52 GMT</pubDate>
-            <content:encoded><![CDATA[6:24]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210925_133/J89sZ_1632544236299ga3Xf_JPEG/eb756515-1db8-11ec-86ec-48df37ae3fca_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[쏜애플_기린]]></title>
-            <link>https://tv.naver.com/v/22613107</link>
-            <guid>https://tv.naver.com/v/22613107</guid>
-            <pubDate>Thu, 07 Oct 2021 16:22:52 GMT</pubDate>
-            <content:encoded><![CDATA[4:16]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210925_117/xGvTZ_1632544056625PgIks_JPEG/a94f5862-1db8-11ec-8678-48df379cca40_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[쏜애플_인터뷰]]></title>
-            <link>https://tv.naver.com/v/22613094</link>
-            <guid>https://tv.naver.com/v/22613094</guid>
-            <pubDate>Thu, 07 Oct 2021 16:22:52 GMT</pubDate>
-            <content:encoded><![CDATA[4:25]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210925_133/sHJst_1632543942886H4c7Q_JPEG/840375ea-1db8-11ec-b6bf-48df379cc9e4_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[쏜애플_수성의 하루]]></title>
-            <link>https://tv.naver.com/v/22613088</link>
-            <guid>https://tv.naver.com/v/22613088</guid>
-            <pubDate>Thu, 07 Oct 2021 16:22:52 GMT</pubDate>
-            <content:encoded><![CDATA[5:47]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210925_60/7fdkY_1632543883071Ov8pr_JPEG/5dcb8716-1db8-11ec-9d7e-a0369ff952f4_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
