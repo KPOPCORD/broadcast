@@ -4,7 +4,7 @@
         <title>더쇼</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Oct 2021 16:25:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Oct 2021 17:23:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,14 +48,6 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20211026_263/1N8tD_1635246105748RzU8p_JPEG/nGo1635245049244-1280-0.jpg?type=f246_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[최초공개] 그리움 가득한 보이스, 이예준 '그리워 그리워']]></title>
-            <link>https://tv.naver.com/v/23184105</link>
-            <guid>https://tv.naver.com/v/23184105</guid>
-            <pubDate>Tue, 26 Oct 2021 11:13:31 GMT</pubDate>
-            <content:encoded><![CDATA[03:45]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211026_130/DyHSX_1635245506181eHi0p_JPEG/z531635244654346-1280-0.jpg?type=f246_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[최초공개] 오컬트 스릴러 컨셉, 드림노트(DreamNote) 'GHOST']]></title>
             <link>https://tv.naver.com/v/23184101</link>
             <guid>https://tv.naver.com/v/23184101</guid>
@@ -70,6 +62,14 @@
             <pubDate>Tue, 26 Oct 2021 11:13:31 GMT</pubDate>
             <content:encoded><![CDATA[12:22]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211026_52/k9K7V_16352455005839d2Xh_JPEG/vn71635243863391-1280-0.jpg?type=f246_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[최초공개] 그리움 가득한 보이스, 이예준 '그리워 그리워']]></title>
+            <link>https://tv.naver.com/v/23184105</link>
+            <guid>https://tv.naver.com/v/23184105</guid>
+            <pubDate>Tue, 26 Oct 2021 11:13:31 GMT</pubDate>
+            <content:encoded><![CDATA[03:45]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211026_130/DyHSX_1635245506181eHi0p_JPEG/z531635244654346-1280-0.jpg?type=f246_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[우주로 더 높게 비상할, 트라이비(TRI.BE) '우주로(WOULD YOU RUN)']]></title>
