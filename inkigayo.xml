@@ -4,7 +4,7 @@
         <title>인기가요</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 31 Oct 2021 08:20:29 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Oct 2021 09:17:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://tv.naver.com/v/23262592</link>
             <guid>https://tv.naver.com/v/23262592</guid>
             <pubDate>Sun, 31 Oct 2021 08:18:32 GMT</pubDate>
-            <content:encoded><![CDATA[03:21]]></content:encoded>
+            <content:encoded><![CDATA[03:20]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211031_162/mEny9_1635667965786gQlvQ_JPEG/7c399828-a946-4ff6-8468-73dc0a56fd6a.jpg?type=f246_140" length="0" type="image/jpg"/>
         </item>
         <item>
