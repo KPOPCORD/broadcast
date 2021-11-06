@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 06 Nov 2021 04:22:24 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Nov 2021 05:16:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -3960,6 +3960,78 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20200521_273/uobDx_1590051066619jSccF_JPEG/65aa5cc3-9b3f-11ea-b0c3-505dac8c38f5_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[V.O.S_눈을 보고 내게 말해요 (네이버TV ─ 열린예술무대 뒤란)]]></title>
+            <link>https://tv.naver.com/v/23380664</link>
+            <guid>https://tv.naver.com/v/23380664</guid>
+            <pubDate>Sat, 06 Nov 2021 05:16:06 GMT</pubDate>
+            <content:encoded><![CDATA[3:50]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211106_62/vMs4N_1636175290358vBQpu_JPEG/6596f451-3ebf-11ec-a3dc-246e963a464c_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[V.O.S_Beautiful Life.wmv (네이버TV ─ 열린예술무대 뒤란)]]></title>
+            <link>https://tv.naver.com/v/23380652</link>
+            <guid>https://tv.naver.com/v/23380652</guid>
+            <pubDate>Sat, 06 Nov 2021 05:16:06 GMT</pubDate>
+            <content:encoded><![CDATA[3:23]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211106_170/E56Uc_1636175227259r0tAK_JPEG/4569a637-3ebf-11ec-9a6e-246e963a49a8_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[V.O.S_다시 만날까봐 (네이버TV ─ 열린예술무대 뒤란)]]></title>
+            <link>https://tv.naver.com/v/23380646</link>
+            <guid>https://tv.naver.com/v/23380646</guid>
+            <pubDate>Sat, 06 Nov 2021 05:16:06 GMT</pubDate>
+            <content:encoded><![CDATA[3:35]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211106_186/0bdKV_1636175170151V1iJE_JPEG/49d1f480-3ebd-11ec-92ae-a0369ff952f4_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[V.O.S_솔로곡메들리 (네이버TV ─ 열린예술무대 뒤란)]]></title>
+            <link>https://tv.naver.com/v/23380551</link>
+            <guid>https://tv.naver.com/v/23380551</guid>
+            <pubDate>Sat, 06 Nov 2021 05:16:06 GMT</pubDate>
+            <content:encoded><![CDATA[4:14]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211106_226/otiOy_1636174318056jYCp2_JPEG/31a1a248-3ebd-11ec-9e9c-48df379cc9e4_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[V.O.S_큰일이다 (네이버TV ─ 열린예술무대 뒤란)]]></title>
+            <link>https://tv.naver.com/v/23380543</link>
+            <guid>https://tv.naver.com/v/23380543</guid>
+            <pubDate>Sat, 06 Nov 2021 05:16:06 GMT</pubDate>
+            <content:encoded><![CDATA[3:51]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211106_130/hP5Uf_163617427212023GyN_JPEG/11ea207f-3ebd-11ec-9e9c-48df379cc9e4_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[너드커넥션_Castel (네이버TV ─ 열린예술무대 뒤란)]]></title>
+            <link>https://tv.naver.com/v/23380533</link>
+            <guid>https://tv.naver.com/v/23380533</guid>
+            <pubDate>Sat, 06 Nov 2021 05:16:06 GMT</pubDate>
+            <content:encoded><![CDATA[4:07]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211106_25/mtut4_1636174209623ikACV_JPEG/e548cda1-3ebc-11ec-9e9c-48df379cc9e4_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[너드커넥션_좋은밤 좋은꿈 (네이버TV ─ 열린예술무대 뒤란)]]></title>
+            <link>https://tv.naver.com/v/23380521</link>
+            <guid>https://tv.naver.com/v/23380521</guid>
+            <pubDate>Sat, 06 Nov 2021 05:16:06 GMT</pubDate>
+            <content:encoded><![CDATA[4:33]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211106_203/c5YFV_1636174152783WxlJR_JPEG/ceacd649-3ebc-11ec-a74c-48df379ccacc_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[너드커넥션_인터뷰 (네이버TV ─ 열린예술무대 뒤란)]]></title>
+            <link>https://tv.naver.com/v/23380516</link>
+            <guid>https://tv.naver.com/v/23380516</guid>
+            <pubDate>Sat, 06 Nov 2021 05:16:06 GMT</pubDate>
+            <content:encoded><![CDATA[6:14]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211106_283/Q7Zbx_16361741138332Rq4w_JPEG/b2d65fcf-3ebc-11ec-9e9c-48df379cc9e4_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[너드커넥션_Life dancing (네이버TV ─ 열린예술무대 뒤란)]]></title>
+            <link>https://tv.naver.com/v/23380510</link>
+            <guid>https://tv.naver.com/v/23380510</guid>
+            <pubDate>Sat, 06 Nov 2021 05:16:06 GMT</pubDate>
+            <content:encoded><![CDATA[3:19]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211106_48/s6VZJ_1636174067993gVPlF_JPEG/8b3dceed-3ebc-11ec-a979-48df37ae3dc4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[가비엔제이_헤어지래요 (네이버TV ─ 열린예술무대 뒤란)]]></title>
             <link>https://tv.naver.com/v/23224897</link>
             <guid>https://tv.naver.com/v/23224897</guid>
@@ -4126,78 +4198,6 @@
             <pubDate>Sat, 16 Oct 2021 07:17:03 GMT</pubDate>
             <content:encoded><![CDATA[4:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211016_211/0NCPH_1634365552234mKY0R_JPEG/c6c3491c-2e49-11ec-9ee0-a0369ff94ed0_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[알리_넋두리(원곡 김현식) (네이버TV ─ 열린예술무대 뒤란)]]></title>
-            <link>https://tv.naver.com/v/22996388</link>
-            <guid>https://tv.naver.com/v/22996388</guid>
-            <pubDate>Sat, 16 Oct 2021 07:17:03 GMT</pubDate>
-            <content:encoded><![CDATA[6:05]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211016_142/5Squn_1634365490955GOu4f_JPEG/5f340e9c-2e49-11ec-9ac7-505dac8c381b_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[알리_what is LUV (네이버TV ─ 열린예술무대 뒤란)]]></title>
-            <link>https://tv.naver.com/v/22996360</link>
-            <guid>https://tv.naver.com/v/22996360</guid>
-            <pubDate>Sat, 16 Oct 2021 07:17:03 GMT</pubDate>
-            <content:encoded><![CDATA[3:49]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211016_166/Q59CI_16343653153004PpER_JPEG/35a1a915-2e49-11ec-b2c0-505dac8c38f5_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[알리_인터뷰 (네이버TV ─ 열린예술무대 뒤란)]]></title>
-            <link>https://tv.naver.com/v/22996344</link>
-            <guid>https://tv.naver.com/v/22996344</guid>
-            <pubDate>Sat, 16 Oct 2021 07:17:03 GMT</pubDate>
-            <content:encoded><![CDATA[6:52]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211016_177/vnI5w_1634365245966ukHis_JPEG/0a2f60c4-2e49-11ec-9ac7-505dac8c381b_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[알리_102가지 (네이버TV ─ 열린예술무대 뒤란)]]></title>
-            <link>https://tv.naver.com/v/22996329</link>
-            <guid>https://tv.naver.com/v/22996329</guid>
-            <pubDate>Sat, 16 Oct 2021 07:17:03 GMT</pubDate>
-            <content:encoded><![CDATA[3:20]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211016_148/kPFnR_1634365173529PxUXW_JPEG/f02baddd-2e48-11ec-b543-505dacfba98a_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[하이브로_Good morning (네이버TV ─ 열린예술무대 뒤란)]]></title>
-            <link>https://tv.naver.com/v/22996319</link>
-            <guid>https://tv.naver.com/v/22996319</guid>
-            <pubDate>Sat, 16 Oct 2021 07:17:03 GMT</pubDate>
-            <content:encoded><![CDATA[3:19]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211016_231/HzU4C_1634365131276pOtgU_JPEG/da092c63-2e48-11ec-8636-505dac8c3639_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[하이브로_인터뷰 (네이버TV ─ 열린예술무대 뒤란)]]></title>
-            <link>https://tv.naver.com/v/22996311</link>
-            <guid>https://tv.naver.com/v/22996311</guid>
-            <pubDate>Sat, 16 Oct 2021 07:17:03 GMT</pubDate>
-            <content:encoded><![CDATA[5:59]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211016_4/3zLQG_1634365093566kDhm7_JPEG/bcbb310c-2e48-11ec-9ac7-505dac8c381b_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[하이브로_오늘은 (네이버TV ─ 열린예술무대 뒤란)]]></title>
-            <link>https://tv.naver.com/v/22996306</link>
-            <guid>https://tv.naver.com/v/22996306</guid>
-            <pubDate>Sat, 16 Oct 2021 06:19:58 GMT</pubDate>
-            <content:encoded><![CDATA[3:44]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211016_202/RgJQ4_1634365043937wjagb_JPEG/915718d5-2e48-11ec-82c9-505dac8c35ff_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[곽동현_붉은노을(원곡_이문세) (네이버TV ─ 열린예술무대 뒤란)]]></title>
-            <link>https://tv.naver.com/v/22921216</link>
-            <guid>https://tv.naver.com/v/22921216</guid>
-            <pubDate>Tue, 12 Oct 2021 12:27:03 GMT</pubDate>
-            <content:encoded><![CDATA[4:06]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211012_212/MMtKU_1634040700776XAOgV_JPEG/60ea1239-2b55-11ec-8612-48df379cc9e4_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[곽동현_거짓말 (네이버TV ─ 열린예술무대 뒤란)]]></title>
-            <link>https://tv.naver.com/v/22921196</link>
-            <guid>https://tv.naver.com/v/22921196</guid>
-            <pubDate>Tue, 12 Oct 2021 12:27:03 GMT</pubDate>
-            <content:encoded><![CDATA[3:58]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211012_42/7BJMo_1634040619685I8ihk_JPEG/4286aeb4-2b55-11ec-8612-48df379cc9e4_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
