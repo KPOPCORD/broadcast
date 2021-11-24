@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Nov 2021 02:00:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Nov 2021 02:36:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -492,8 +492,8 @@
             <link>https://tv.naver.com/v/23708262</link>
             <guid>https://tv.naver.com/v/23708262</guid>
             <pubDate>Wed, 24 Nov 2021 00:51:27 GMT</pubDate>
-            <content:encoded><![CDATA[06:53]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211124_101/CimRu_1637713910996fAqDR_JPEG/4338e475-401c-4e77-a8d8-8e89fbcfca51.jpg?type=f246_140" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[07:27]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211124_163/xBg4D_1637721122014uB9Wh_JPEG/d8a95be0-fb06-4a46-a57d-c2ed5ba4b5f9.jpg?type=f246_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[러블리 카리스마 ‘트와이스’의 ‘SCIENTIST’ (인기가요)]]></title>
