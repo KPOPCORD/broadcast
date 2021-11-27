@@ -4,9 +4,41 @@
         <title>네이버TV ─ 열린예술무대 뒤란</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 27 Nov 2021 11:15:37 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Nov 2021 12:25:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이영지_Go high]]></title>
+            <link>https://tv.naver.com/v/23776289</link>
+            <guid>https://tv.naver.com/v/23776289</guid>
+            <pubDate>Sat, 27 Nov 2021 12:25:53 GMT</pubDate>
+            <content:encoded><![CDATA[4:14]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211127_13/LaxX7_1638011826274RDuGz_JPEG/75820095-4f73-11ec-9e9c-48df379cc9e4_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이영지_댓츠마걸!!!]]></title>
+            <link>https://tv.naver.com/v/23776273</link>
+            <guid>https://tv.naver.com/v/23776273</guid>
+            <pubDate>Sat, 27 Nov 2021 12:25:53 GMT</pubDate>
+            <content:encoded><![CDATA[3:22]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211127_276/m8Qrg_1638011782284Osh8b_JPEG/5c962645-4f73-11ec-9e9c-48df379cc9e4_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이영지_나는 이영지]]></title>
+            <link>https://tv.naver.com/v/23776264</link>
+            <guid>https://tv.naver.com/v/23776264</guid>
+            <pubDate>Sat, 27 Nov 2021 12:25:53 GMT</pubDate>
+            <content:encoded><![CDATA[2:59]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211127_19/Pc10n_1638011739994FYhwK_JPEG/4a336c39-4f73-11ec-82c9-505dac8c35ff_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이영지_타협]]></title>
+            <link>https://tv.naver.com/v/23776259</link>
+            <guid>https://tv.naver.com/v/23776259</guid>
+            <pubDate>Sat, 27 Nov 2021 12:25:53 GMT</pubDate>
+            <content:encoded><![CDATA[2:56]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211127_160/RkXAU_1638011699415pSFev_JPEG/301fb459-4f73-11ec-ba2c-505dac8c385b_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김방술&김대수&울산대성악팀_축배의노래]]></title>
             <link>https://tv.naver.com/v/23776252</link>
@@ -214,38 +246,6 @@
             <pubDate>Fri, 12 Nov 2021 10:19:36 GMT</pubDate>
             <content:encoded><![CDATA[3:34]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211111_264/Lk8as_1636633283510A9SmD_JPEG/cd18cb09-42e9-11ec-a74c-48df379ccacc_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ADOY_인터뷰]]></title>
-            <link>https://tv.naver.com/v/23477095</link>
-            <guid>https://tv.naver.com/v/23477095</guid>
-            <pubDate>Fri, 12 Nov 2021 10:19:36 GMT</pubDate>
-            <content:encoded><![CDATA[3:43]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211111_104/9ejd6_1636633226468n1Buq_JPEG/99905985-42e9-11ec-a979-48df37ae3dc4_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ADOY_Antihero]]></title>
-            <link>https://tv.naver.com/v/23477063</link>
-            <guid>https://tv.naver.com/v/23477063</guid>
-            <pubDate>Fri, 12 Nov 2021 10:19:36 GMT</pubDate>
-            <content:encoded><![CDATA[4:15]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211111_159/eBmPy_1636633157589pGzGz_JPEG/75a58e14-42e9-11ec-a74c-48df379ccacc_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[V.O.S_눈을 보고 내게 말해요]]></title>
-            <link>https://tv.naver.com/v/23380664</link>
-            <guid>https://tv.naver.com/v/23380664</guid>
-            <pubDate>Sat, 06 Nov 2021 05:16:06 GMT</pubDate>
-            <content:encoded><![CDATA[3:50]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211106_62/vMs4N_1636175290358vBQpu_JPEG/6596f451-3ebf-11ec-a3dc-246e963a464c_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[V.O.S_Beautiful Life.wmv]]></title>
-            <link>https://tv.naver.com/v/23380652</link>
-            <guid>https://tv.naver.com/v/23380652</guid>
-            <pubDate>Sat, 06 Nov 2021 05:16:06 GMT</pubDate>
-            <content:encoded><![CDATA[3:23]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211106_170/E56Uc_1636175227259r0tAK_JPEG/4569a637-3ebf-11ec-9a6e-246e963a49a8_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
