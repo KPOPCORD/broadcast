@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 28 Nov 2021 11:15:03 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Nov 2021 12:26:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1960,20 +1960,20 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20211128_62/dfU38_1638095518078DuaC2_JPEG/clip_20211128191659_38.jpg?type=f246_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA['그린라이트'의 예술혼 불태운 그림 그리기 개인기🎨, MBC 211128 방송 (복면가왕)]]></title>
-            <link>https://tv.naver.com/v/23785481</link>
-            <guid>https://tv.naver.com/v/23785481</guid>
-            <pubDate>Sun, 28 Nov 2021 11:14:03 GMT</pubDate>
-            <content:encoded><![CDATA[01:11]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211128_258/bs0d5_1638094908181cnzMx_JPEG/clip_20211128191154_35.jpg?type=f246_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA['금사빠'의 오토바이 소리, 자동차 경적 소리 등 바이올린 개인기, MBC 211128 방송 (복면가왕)]]></title>
             <link>https://tv.naver.com/v/23785477</link>
             <guid>https://tv.naver.com/v/23785477</guid>
             <pubDate>Sun, 28 Nov 2021 11:14:03 GMT</pubDate>
             <content:encoded><![CDATA[02:45]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211128_271/y965D_1638094904443M8jyE_JPEG/clip_20211128190727_32.jpg?type=f246_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['그린라이트'의 예술혼 불태운 그림 그리기 개인기🎨, MBC 211128 방송 (복면가왕)]]></title>
+            <link>https://tv.naver.com/v/23785481</link>
+            <guid>https://tv.naver.com/v/23785481</guid>
+            <pubDate>Sun, 28 Nov 2021 11:14:03 GMT</pubDate>
+            <content:encoded><![CDATA[01:11]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211128_258/bs0d5_1638094908181cnzMx_JPEG/clip_20211128191154_35.jpg?type=f246_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['금사빠' VS '그린라이트'의 1라운드 무대 - 가을 우체국 앞에서, MBC 211128 방송 (복면가왕)]]></title>
