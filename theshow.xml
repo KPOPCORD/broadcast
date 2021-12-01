@@ -4,7 +4,7 @@
         <title>더쇼</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Dec 2021 02:06:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Dec 2021 03:19:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -52,7 +52,7 @@
             <link>https://tv.naver.com/v/23822745</link>
             <guid>https://tv.naver.com/v/23822745</guid>
             <pubDate>Tue, 30 Nov 2021 11:12:43 GMT</pubDate>
-            <content:encoded><![CDATA[02:54]]></content:encoded>
+            <content:encoded><![CDATA[02:56]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211130_27/PWdnE_1638268623429TC4q4_JPEG/0fX1638267591101-1280-0.jpg?type=f246_140" length="0" type="image/jpg"/>
         </item>
         <item>
