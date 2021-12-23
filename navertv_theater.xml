@@ -1,8 +1,251 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://tv.naver.com/theater/clips</id>
-    <title>네이버 TV ─ 네이버 공연</title>
-    <updated>2021-12-23T16:27:26.751Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://tv.naver.com/theater/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>네이버 TV ─ 네이버 공연</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Thu, 23 Dec 2021 17:26:07 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예고] Christmas at HOME - 조수미 & 이 무지치 네이버 후원라이브 생중계! (12/25 오후 5시)]]></title>
+            <link>https://tv.naver.com/v/24088506</link>
+            <guid>https://tv.naver.com/v/24088506</guid>
+            <pubDate>Thu, 23 Dec 2021 17:25:54 GMT</pubDate>
+            <content:encoded><![CDATA[0:59]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211215_183/HOLxC_1639545952227Nrery_JPEG/1639545944724.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김장훈 Christmas Concert 부스터샷]]></title>
+            <link>https://tv.naver.com/v/23890677</link>
+            <guid>https://tv.naver.com/v/23890677</guid>
+            <pubDate>Thu, 23 Dec 2021 17:25:54 GMT</pubDate>
+            <content:encoded><![CDATA[0:37]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211203_7/a9bvQ_1638532760449P8hAQ_JPEG/1bcc4d74-5430-11ec-9a6e-246e963a49a8_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[DIMF 12월 뮤지컬 콘서트 <동행, 다시 함께> 스팟 영상공개🎥]]></title>
+            <link>https://tv.naver.com/v/23870871</link>
+            <guid>https://tv.naver.com/v/23870871</guid>
+            <pubDate>Thu, 23 Dec 2021 17:25:54 GMT</pubDate>
+            <content:encoded><![CDATA[0:40]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211203_265/Fhmb7_1638460554529TUroP_JPEG/e49e90ee-5387-11ec-9ac7-505dac8c381b_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김현식 추억 콘서트 생중계 예고]]></title>
+            <link>https://tv.naver.com/v/23268271</link>
+            <guid>https://tv.naver.com/v/23268271</guid>
+            <pubDate>Thu, 23 Dec 2021 17:25:54 GMT</pubDate>
+            <content:encoded><![CDATA[0:54]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211101_50/ASaZp_1635693440884fYXlf_JPEG/2aee1bee-3a5d-11ec-9e9c-48df379cc9e4_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[창작국악뮤지컬 <안녕, 지구> 중계 예고]]></title>
+            <link>https://tv.naver.com/v/23146359</link>
+            <guid>https://tv.naver.com/v/23146359</guid>
+            <pubDate>Thu, 23 Dec 2021 17:25:54 GMT</pubDate>
+            <content:encoded><![CDATA[1:48]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211025_35/Wx5Kf_1635088487369uV7Wu_JPEG/0303b789-34db-11ec-9524-505dacfbaa5c_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 <까뮈의 페스트 : 리버스> 중계 예고]]></title>
+            <link>https://tv.naver.com/v/23146172</link>
+            <guid>https://tv.naver.com/v/23146172</guid>
+            <pubDate>Thu, 23 Dec 2021 17:25:54 GMT</pubDate>
+            <content:encoded><![CDATA[1:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211024_110/EftNA_1635087390877cUPiH_JPEG/65eec628-34d8-11ec-b39d-48df37ae3fca_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김장훈의 독도 콘서트 생중계 예고 영상]]></title>
+            <link>https://tv.naver.com/v/23140540</link>
+            <guid>https://tv.naver.com/v/23140540</guid>
+            <pubDate>Thu, 23 Dec 2021 17:25:54 GMT</pubDate>
+            <content:encoded><![CDATA[1:26]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211024_110/8aahB_1635057855051XYfT9_JPEG/7951fb2a-3495-11ec-a331-48df379cca40_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[더 콘서트 : 코레아의 신부 생중계 예고영상]]></title>
+            <link>https://tv.naver.com/v/23139346</link>
+            <guid>https://tv.naver.com/v/23139346</guid>
+            <pubDate>Thu, 23 Dec 2021 17:25:54 GMT</pubDate>
+            <content:encoded><![CDATA[0:45]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211024_231/6anOD_1635051545299k7wdw_JPEG/3904c093-3485-11ec-a331-48df379cca40_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<신비아파트 뮤지컬 시즌4: 비명동산의 초대장> 할로윈 온택트 공연]]></title>
+            <link>https://tv.naver.com/v/23014056</link>
+            <guid>https://tv.naver.com/v/23014056</guid>
+            <pubDate>Thu, 23 Dec 2021 17:25:54 GMT</pubDate>
+            <content:encoded><![CDATA[0:15]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211017_225/GKKmf_1634482522286LJxsd_JPEG/d08a92aa-2f59-11ec-a331-48df379cca40_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[무용 <2nd Altimeets> 녹화중계 예고영상]]></title>
+            <link>https://tv.naver.com/v/22867914</link>
+            <guid>https://tv.naver.com/v/22867914</guid>
+            <pubDate>Thu, 23 Dec 2021 17:25:54 GMT</pubDate>
+            <content:encoded><![CDATA[2:53]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211008_166/p2PuI_1633700624606LDMbs_JPEG/4e3adff2-283d-11ec-a0d8-48df379ccacc_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 <마리 앙투아네트> 공연실황 녹화중계 예고]]></title>
+            <link>https://tv.naver.com/v/22867659</link>
+            <guid>https://tv.naver.com/v/22867659</guid>
+            <pubDate>Thu, 23 Dec 2021 17:25:54 GMT</pubDate>
+            <content:encoded><![CDATA[0:28]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211008_290/iTElQ_1633699635301JM9Oj_JPEG/a62e02f5-283a-11ec-8920-505dac8c385b_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[세종 1446 뮤지컬 콘서트 ‘여민락 상영회’ 생중계 예고]]></title>
+            <link>https://tv.naver.com/v/22835536</link>
+            <guid>https://tv.naver.com/v/22835536</guid>
+            <pubDate>Thu, 23 Dec 2021 17:25:54 GMT</pubDate>
+            <content:encoded><![CDATA[6:08]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211007_121/KD7Xg_1633584208536V6mxm_JPEG/86c547b9-272d-11ec-bd3d-505dac8c3639_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[제 7회 동편제 국악축제 생중계 예고]]></title>
+            <link>https://tv.naver.com/v/22727551</link>
+            <guid>https://tv.naver.com/v/22727551</guid>
+            <pubDate>Thu, 23 Dec 2021 17:25:54 GMT</pubDate>
+            <content:encoded><![CDATA[1:25]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211001_41/eBdfe_16330635744626Y6Bf_JPEG/89ad08fd-2271-11ec-809b-a0369ff94ed0_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[제6회 마포 M클래식축제 <당인리 패션 클래식> 생중계 예고]]></title>
+            <link>https://tv.naver.com/v/22722789</link>
+            <guid>https://tv.naver.com/v/22722789</guid>
+            <pubDate>Thu, 23 Dec 2021 17:25:54 GMT</pubDate>
+            <content:encoded><![CDATA[1:01]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211001_220/Qnad8_1633050820237C9nO3_JPEG/45f84bc2-2254-11ec-93f2-a0369ff95ec0_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 <1976 할란카운티> 온라인 라이브 예고]]></title>
+            <link>https://tv.naver.com/v/22632698</link>
+            <guid>https://tv.naver.com/v/22632698</guid>
+            <pubDate>Thu, 23 Dec 2021 17:25:54 GMT</pubDate>
+            <content:encoded><![CDATA[0:29]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210927_43/6CXeo_16326969470243Xj2S_JPEG/dc84047d-1f1b-11ec-a9f1-505dac8c3639_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[자전거 탄 풍경 at home 콘서트 온라인 생중계 예고]]></title>
+            <link>https://tv.naver.com/v/22430399</link>
+            <guid>https://tv.naver.com/v/22430399</guid>
+            <pubDate>Thu, 23 Dec 2021 17:25:54 GMT</pubDate>
+            <content:encoded><![CDATA[2:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210914_161/kzWTN_1631547788524mmkjd_JPEG/473e9ea6-14a8-11ec-8678-48df379cca40_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[창작연희극 <줄 타는 아이와 아프리카도마뱀> 녹화중계 예고영상]]></title>
+            <link>https://tv.naver.com/v/22430179</link>
+            <guid>https://tv.naver.com/v/22430179</guid>
+            <pubDate>Thu, 23 Dec 2021 17:25:54 GMT</pubDate>
+            <content:encoded><![CDATA[1:49]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210914_37/oUksi_1631546686539MORKs_JPEG/f40fa2da-14a4-11ec-86ec-48df37ae3fca_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 <햄릿의 비극> 녹화중계 예고영상]]></title>
+            <link>https://tv.naver.com/v/22429934</link>
+            <guid>https://tv.naver.com/v/22429934</guid>
+            <pubDate>Thu, 23 Dec 2021 17:25:54 GMT</pubDate>
+            <content:encoded><![CDATA[2:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210914_217/ZTvIc_1631545480896sYBBA_JPEG/2b5dae69-14a2-11ec-9845-505dacfbaa5c_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[무용 <2nd Altimeets> 녹화중계 예고 영상]]></title>
+            <link>https://tv.naver.com/v/22429607</link>
+            <guid>https://tv.naver.com/v/22429607</guid>
+            <pubDate>Thu, 23 Dec 2021 17:25:54 GMT</pubDate>
+            <content:encoded><![CDATA[2:53]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210913_188/TIvX0_1631543903774SFgVF_JPEG/01bf1be9-149f-11ec-8111-505dac8c381b_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[무용 <새다림> 녹화중계]]></title>
+            <link>https://tv.naver.com/v/22429237</link>
+            <guid>https://tv.naver.com/v/22429237</guid>
+            <pubDate>Thu, 23 Dec 2021 17:25:54 GMT</pubDate>
+            <content:encoded><![CDATA[1:47]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210913_294/Y09Lk_1631541912323WHJf9_JPEG/a9092a43-1497-11ec-86ec-48df37ae3fca_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[조성진 피아노 리사이틀 앙코르 생중계 예고 영상]]></title>
+            <link>https://tv.naver.com/v/22337556</link>
+            <guid>https://tv.naver.com/v/22337556</guid>
+            <pubDate>Thu, 23 Dec 2021 17:25:54 GMT</pubDate>
+            <content:encoded><![CDATA[0:35]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210908_294/uiZK7_1631084860883OUDHp_JPEG/8c84c3dd-1072-11ec-b6bf-48df379cc9e4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[제18회 대구국제오페라축제 개막작 <토스카> 생중계 예고]]></title>
+            <link>https://tv.naver.com/v/22326106</link>
+            <guid>https://tv.naver.com/v/22326106</guid>
+            <pubDate>Thu, 23 Dec 2021 17:25:54 GMT</pubDate>
+            <content:encoded><![CDATA[4:57]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210908_119/tH1NB_1631031547621HLkzp_JPEG/f1f76837-0ff5-11ec-8678-48df379cca40_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[조성진 리사이틀 앙코르 온라인 생중계 예고 영상]]></title>
+            <link>https://tv.naver.com/v/22236970</link>
+            <guid>https://tv.naver.com/v/22236970</guid>
+            <pubDate>Thu, 23 Dec 2021 17:25:54 GMT</pubDate>
+            <content:encoded><![CDATA[0:29]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210903_150/gBkxt_1630645807595fSUMR_JPEG/981dec0f-0c74-11ec-9d7e-a0369ff952f4_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 <미숙의 쿠키상자> 생중계 예고]]></title>
+            <link>https://tv.naver.com/v/22149489</link>
+            <guid>https://tv.naver.com/v/22149489</guid>
+            <pubDate>Thu, 23 Dec 2021 17:25:54 GMT</pubDate>
+            <content:encoded><![CDATA[1:13]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210830_255/bDMhU_16303190705084bjem_JPEG/47beb2c6-097b-11ec-9d7e-a0369ff952f4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 <너를 만난다> 생중계 예고]]></title>
+            <link>https://tv.naver.com/v/22149152</link>
+            <guid>https://tv.naver.com/v/22149152</guid>
+            <pubDate>Thu, 23 Dec 2021 17:25:54 GMT</pubDate>
+            <content:encoded><![CDATA[1:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210830_224/N8Uj5_1630318238600ly4vU_JPEG/0f1a5756-0979-11ec-86ec-48df37ae3fca_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 <금악:禁樂> 프레스콜 녹화중계 예고]]></title>
+            <link>https://tv.naver.com/v/21911395</link>
+            <guid>https://tv.naver.com/v/21911395</guid>
+            <pubDate>Thu, 23 Dec 2021 17:25:54 GMT</pubDate>
+            <content:encoded><![CDATA[0:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210817_233/w1ia9_1629182970914OFKYu_JPEG/77af2822-ff26-11eb-86ec-48df37ae3fca_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[제7회 계촌 클래식 축제 온라인 실황 중계 예고]]></title>
+            <link>https://tv.naver.com/v/21821045</link>
+            <guid>https://tv.naver.com/v/21821045</guid>
+            <pubDate>Thu, 23 Dec 2021 17:25:54 GMT</pubDate>
+            <content:encoded><![CDATA[1:02]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210812_120/E4QNH_1628734753680ikKkD_JPEG/e6435e91-fb12-11eb-9845-505dacfbaa5c_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 <광화문연가> 프레스콜 생중계 예고]]></title>
+            <link>https://tv.naver.com/v/21563705</link>
+            <guid>https://tv.naver.com/v/21563705</guid>
+            <pubDate>Thu, 23 Dec 2021 17:25:54 GMT</pubDate>
+            <content:encoded><![CDATA[0:20]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210727_131/RxyoN_1627390176406Bg3iE_JPEG/773105cb-eed8-11eb-818a-505dacfba98a_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 <브라더스 까라마조프> 후원 Live 예고영상]]></title>
+            <link>https://tv.naver.com/v/21559583</link>
+            <guid>https://tv.naver.com/v/21559583</guid>
+            <pubDate>Thu, 23 Dec 2021 17:25:54 GMT</pubDate>
+            <content:encoded><![CDATA[0:50]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210727_9/3aC5x_1627376269834lkqif_JPEG/389ae33c-eeb8-11eb-90ce-48df37ae3dc4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 <브라더스 까라마조프> 후원 Live]]></title>
+            <link>https://tv.naver.com/v/21559348</link>
+            <guid>https://tv.naver.com/v/21559348</guid>
+            <pubDate>Thu, 23 Dec 2021 17:25:54 GMT</pubDate>
+            <content:encoded><![CDATA[0:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210727_187/95ich_16273759700794Gpob_JPEG/2ab62ce8-eeb7-11eb-919a-48df37ae3fca_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
